@@ -37,5 +37,4 @@ Overall, this function can be used to automate the process of creating and popul
 
 ## Bugs faced :
 I wrote the program where I created the table and for the first time it gave me the correct value but when I was running again and again the value of nature appeared was getting doubled and then i added drop_table='''drop TABLE incidents'''  to my code which solved the issue. Now my functions works perfectly.
-## Video my code executing, using the pipenv run command and pipenv run python -m pytest is below
 
